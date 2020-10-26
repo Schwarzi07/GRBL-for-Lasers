@@ -1,2 +1,2 @@
 # GRBL-for-Lasers
-Laser optimized GRBL
+GRBL for Lasers is the GRBL CNC Controller but optimized for Laserengravers/cutters
