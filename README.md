@@ -7,6 +7,6 @@ Thu+is is just a random pull requesrt witch is going to be used for Developement
 
 # Plans
 
--Improving Stability
--Remoivng offstes(except G92)
--Adding defaults for the mayor hobby machines
+-Improving Stability;
+-Remoivng offstes(except G92);
+-Adding defaults for the mayor hobby machines;
