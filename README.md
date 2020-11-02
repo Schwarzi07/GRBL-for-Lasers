@@ -8,6 +8,10 @@ This is just a random branch for Development.
 # Plans
 
 These are my Plans for future commits.
+
+
 -Improving Stability;
+
 -Removing offsets(except G92);
+
 -Adding defaults for the mayor hobby machines;
