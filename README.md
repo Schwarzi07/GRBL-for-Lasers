@@ -5,3 +5,11 @@ Im doing all of the Development in a seperate branch.
 # Disclaimer
 
 I don´t own any of the original GRBL Firmware, i´m just editing it to make it more optimized for Laser cutters/engravers.
+
+# Goals
+
+-Remove Offsets(except G92)
+
+-Add standard configs for common Hobby Machines.
+
+-Improve Stability
